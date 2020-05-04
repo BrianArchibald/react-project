@@ -5,10 +5,30 @@ import WordModule from './WordModule';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <h2>
         App Component
       </h2>
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
+      <WordModule />
       <WordModule />
     </div>
   );

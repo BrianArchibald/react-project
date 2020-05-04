@@ -2,9 +2,11 @@ import React from 'react';
 
 function WordModule() {
     return (
+      <div className="game">
         <div className="word-module">
-            <p>in WordModule Component</p>
+            <p>WordModule</p>
         </div>
+      </div>
     );
 }
 
