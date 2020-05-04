@@ -28,11 +28,12 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.word-module {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #e8e8e8;
+  text-align: center;
+  width: 19%;
+  height: 18%;
 }
