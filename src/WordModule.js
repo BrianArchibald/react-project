@@ -2,10 +2,32 @@ import React from 'react';
 
 function WordModule() {
     return (
-      <div className="game">
-        <div className="word-module">
-            <p>WordModule</p>
-        </div>
+      <div className="grid">
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Time</div>
+        <div className="word-module">Something</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
+        <div className="word-module">Word</div>
       </div>
     );
 }

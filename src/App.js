@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
 import WordModule from './WordModule';
+import Status from './Status';
 
 
 function App() {
@@ -9,26 +10,7 @@ function App() {
       <h2>
         App Component
       </h2>
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
-      <WordModule />
+      <Status />
       <WordModule />
     </div>
   );
