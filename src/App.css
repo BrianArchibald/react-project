@@ -44,6 +44,14 @@ h1 {
    height: 18%;
 }
 
+.red {
+  color: red;
+}
+
+.blue {
+  color:  blue;
+}
+
 .App {
    width: 700px;
    margin: 0 auto;

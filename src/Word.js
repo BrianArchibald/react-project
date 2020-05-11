@@ -8,8 +8,10 @@ const Word = () => {
     function random_word(words) {
        return words[Math.floor(Math.random() * 800)];
     }
+
+    // function to determine color of words either 8 or 9 for blue or red
     return(
-        <div className='word'>
+        <div className='word blue'>
             <h5>
             {random_word(words)}
             </h5>
