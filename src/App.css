@@ -52,6 +52,22 @@ h1 {
   color:  blue;
 }
 
+.blue .revealed {
+  background: #4183cc;
+}
+
+.red .revealed {
+  background: #d13030;
+}
+
+.nuetral .revealed {
+  background: #ede2cc;
+}
+
+.black-hiddenword {
+  background: #999;
+}
+
 .App {
    width: 700px;
    margin: 0 auto;
