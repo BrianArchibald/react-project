@@ -5,6 +5,11 @@ import Word from './Word';
 function WordModule() {
 
   // function to determine the color of background of modules, clicked or not and the danger one.
+
+
+  // if spymaster {
+    // add css class to change look of modules
+ // }
      return (
       <div className="grid">
         <div className="word-module red revealed"><Word /></div>

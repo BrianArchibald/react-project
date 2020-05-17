@@ -5,7 +5,7 @@ function Status() {
     <div className="status">
       <div className="score">9-8</div>
       <div className="player-turn">Blues Turn</div>
-      <div className="change-turn">End Blues Turn</div>
+      <button className="change-turn">End Blues Turn</button>
     </div>
   )
 }

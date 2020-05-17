@@ -2,6 +2,8 @@ import React from 'react';
 import './App.css';
 import WordModule from './WordModule';
 import Status from './Status';
+import Next from './Next';
+import PlayerType from './PlayerType';
 
 
 function App() {
@@ -12,6 +14,8 @@ function App() {
       </h2>
       <Status />
       <WordModule />
+      <Next />
+      <PlayerType />
     </div>
   );
 }
