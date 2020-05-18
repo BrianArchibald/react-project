@@ -34,6 +34,12 @@ h1 {
     text-align: center;
 }
 
+.status  {
+  margin: 1em 0;
+  display: flex;
+  justify-content: space-between;
+}
+
 .word-module {
    display: flex;
    justify-content: center;
@@ -78,6 +84,19 @@ h1 {
     flex-wrap: wrap;
     justify-content: space-between;
     height: 500px;
+    margin-bottom: 3.5em;
+}
+
+.mode {
+  text-align: right;
+  margin: .5em 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.next-game {
+  margin-left: 1em;
 }
 
 /* If Grid is supported, remove the margin we set for the fallback */
